@@ -1,6 +1,10 @@
 package circulate;
 
-public class NineTable {
+/**
+ * 四个方向乘法表
+ */
+
+public class MultiplicationTable {
 
     public static void main(String[] args){
 
