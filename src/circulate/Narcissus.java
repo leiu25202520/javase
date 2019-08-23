@@ -5,7 +5,7 @@ public class Narcissus {
 
     }
 
-    public static boolean isNarcissus(num){
-        if()
+    public static boolean isNarcissus(){
+        return false;
     }
 }
